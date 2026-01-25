@@ -1,6 +1,6 @@
 # Quant Internships Summer 2026
 
-Last updated: 2026-01-25
+Last updated: 2026-01-25 23:06 UTC
 
 ## Top Prop Trading Firms
 
@@ -103,6 +103,31 @@ Last updated: 2026-01-25
 | Voloridge | Quantitative Research Intern | Jupiter, FL | ⬜ Not Applied | [Apply](https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026) |
 | Voloridge | Software Engineering Intern | Jupiter, FL | ⬜ Not Applied | [Apply](https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026) |
 | Marshall Wace | Tech Intern | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002) |
+
+## Asset Management & Banks
+
+| Company | Role | Location | Status | Link |
+|---------|------|----------|--------|------|
+| BlackRock | Quantitative Masters Intern | NYC | ⬜ Not Applied | [Apply](https://careers.blackrock.com/job/new-york/2026-quantitative-masters-internship-program-amers/45831/82067760240) |
+| BlackRock | Summer Internship Program | NYC | ⬜ Not Applied | [Apply](https://careers.blackrock.com/job/new-york/2026-summer-internship-program-amers/45831/78311026912) |
+| Brookfield | Asset Allocation & Quant Strategy Intern | NYC | ⬜ Not Applied | [Careers](https://www.brookfield.com/careers) |
+| State Street | Data Scientist Intern | Boston | ⬜ Not Applied | [Careers](https://careers.statestreet.com/) |
+| State Street | Database Engineering Intern | Boston | ⬜ Not Applied | [Careers](https://careers.statestreet.com/) |
+| Goldman Sachs | Quantitative Strategies Intern | NYC | ⬜ Not Applied | [Careers](https://www.goldmansachs.com/careers/) |
+| Morgan Stanley | Quantitative Finance Intern | NYC | ⬜ Not Applied | [Careers](https://www.morganstanley.com/careers) |
+| JP Morgan | Quantitative Research Intern | NYC | ⬜ Not Applied | [Careers](https://careers.jpmorgan.com/) |
+
+## Additional Firms
+
+| Company | Role | Location | Status | Link |
+|---------|------|----------|--------|------|
+| D.E. Shaw | Quantitative Analyst Intern | NYC | ⬜ Not Applied | [Apply](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2026-5519) |
+| Two Sigma | Product & Capital Strategy Intern | NYC | ⬜ Not Applied | [Careers](https://careers.twosigma.com/) |
+| Stevens Capital | PhD QR Intern | Radnor, PA | ⬜ Not Applied | [Careers](https://www.scm-lp.com/careers) |
+| Garda Capital | Software Engineer Intern | Geneva | ⬜ Not Applied | [Careers](https://www.gardacp.com/careers/) |
+| Vatic Labs | AI Research Intern | NYC | ⬜ Not Applied | [Careers](http://www.vaticinvestments.com/careers/) |
+| DRW | Software Developer Intern | Montreal | ⬜ Not Applied | [Careers](https://drw.com/careers/) |
+| DRW | AI/ML Research Intern | Montreal | ⬜ Not Applied | [Careers](https://drw.com/careers/) |
 
 ---
 
