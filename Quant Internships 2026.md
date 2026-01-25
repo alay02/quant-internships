@@ -119,6 +119,12 @@ Last updated: 2026-01-25 23:06 UTC
 | Goldman Sachs | Quantitative Strategies Intern | NYC | ⬜ Not Applied | [Careers](https://www.goldmansachs.com/careers/) |
 | Morgan Stanley | Quantitative Finance Intern | NYC | ⬜ Not Applied | [Careers](https://www.morganstanley.com/careers) |
 | JP Morgan | Quantitative Research Intern | NYC | ⬜ Not Applied | [Careers](https://careers.jpmorgan.com/) |
+| Barclays | Markets Quant Summer Analyst | NYC | ⬜ Not Applied | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Markets-Quantitative-Summer-Analyst-Internship-2026-New-York_JR-0000033572) |
+| Barclays | Quant Finance Associate Intern | NYC | ⬜ Not Applied | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/745-7th-Avenue-New-York/Quantitative-Finance-Associate-Summer-Internship-Program-2026-New-York_JR-0000071534) |
+| BMO | Quantitative Analyst Intern | Toronto | ⬜ Not Applied | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-ON-CAN/Quantitative-Analyst---Summer-2026--Co-op-Internship----4-Months_R250030327-1) |
+| Wells Fargo | Quant Analytics Intern (Risk) | Various | ⬜ Not Applied | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/XMLNAME-2026-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Science--Masters----Early-Careers_R-481505) |
+| KeyBank | Analytics & Quant Modeling Intern | Cleveland | ⬜ Not Applied | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875) |
+| Neuberger Berman | Fixed Income Quant Intern | NYC | ⬜ Not Applied | [Apply](https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/Fixed-Income-2026-Summer-Quant-Internship_R0011397) |
 
 ## Additional Firms
 
@@ -162,6 +168,12 @@ Last updated: 2026-01-25 23:06 UTC
 |---------|------|----------|--------|------|
 | Belvedere Trading | QT Intern (Winter 2026) | Chicago | ⬜ Not Applied | [Apply](https://jobs.lever.co/belvederetrading/5e07daf3-a6bb-40d4-8125-b56d2ea20d81) |
 | Five Rings | QT Intern (Winter 2026) | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4521138008) |
+
+## Crypto/Digital Assets
+
+| Company | Role | Location | Status | Link |
+|---------|------|----------|--------|------|
+| Wintermute | Quant Research Intern | London | ⬜ Not Applied | [Apply](https://www.wintermute.com/careers) |
 
 ---
 
