@@ -103,6 +103,9 @@ Last updated: 2026-01-25 23:06 UTC
 | Voloridge | Quantitative Research Intern | Jupiter, FL | ⬜ Not Applied | [Apply](https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026) |
 | Voloridge | Software Engineering Intern | Jupiter, FL | ⬜ Not Applied | [Apply](https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026) |
 | Marshall Wace | Tech Intern | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002) |
+| Brevan Howard | Systematic Trading Intern | NYC | ⬜ Not Applied | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/New-York-1345/XMLNAME-2026-Summer-Internship-Programme---Systematic-Trading--New-York_JR101219) |
+| Capula | Trading & Research Intern | London/NYC | ⬜ Not Applied | [Apply](https://apply.workable.com/capula-investment-management-ltd/j/671E0584C7) |
+| SMBC | Fixed Income Systematic Strats | NYC | ⬜ Not Applied | [Careers](https://www.smbc.com/careers) |
 
 ## Asset Management & Banks
 
