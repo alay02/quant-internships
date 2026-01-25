@@ -1,6 +1,6 @@
 # Quant Internships Summer 2026
 
-Last updated: 2026-01-25 23:06 UTC
+Last updated: 2026-01-25 23:20 UTC
 
 ## Top Prop Trading Firms
 
@@ -129,6 +129,8 @@ Last updated: 2026-01-25 23:06 UTC
 | Wells Fargo | Quant Analytics Intern (Risk) | Various | ⬜ Not Applied | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/XMLNAME-2026-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Science--Masters----Early-Careers_R-481505) |
 | KeyBank | Analytics & Quant Modeling Intern | Cleveland | ⬜ Not Applied | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875) |
 | Neuberger Berman | Fixed Income Quant Intern | NYC | ⬜ Not Applied | [Apply](https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/Fixed-Income-2026-Summer-Quant-Internship_R0011397) |
+| BNP Paribas | Quant Research & Trading Intern | NYC | ⬜ Not Applied | [Apply](https://group.bnpparibas/en/careers/job-offer/2026-summer-associate-internship-global-markets-quantitative-research-and-trading-1) |
+| UBS | Global Markets Quant Intern | NYC | ⬜ Not Applied | [Careers](https://www.ubs.com/global/en/careers.html) |
 
 ## Additional Firms
 
