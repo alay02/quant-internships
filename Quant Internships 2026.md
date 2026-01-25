@@ -96,6 +96,10 @@ Last updated: 2026-01-25 23:06 UTC
 | Millennium | Quantitative Research Intern | NYC | ⬜ Not Applied | [Apply](https://campusjobs.mlp.com/careers?pid=755944544682) |
 | Millennium | Software Engineering Intern | NYC | ⬜ Not Applied | [Apply](https://campusjobs.mlp.com/careers?pid=755944533187) |
 | Cubist (Point72) | Quant Software Dev Intern | NYC | ⬜ Not Applied | [Apply](https://careers.point72.com/CSJobDetail?jobName=quantitative-software-developer-intern&jobCode=CSS-0011537) |
+| Point72 | AI Engineer Intern | NYC | ⬜ Not Applied | [Apply](https://careers.point72.com/CSJobDetail?jobName=2026-summer-internship-ai-engineer&jobCode=IVS-0013771) |
+| Two Sigma | AI Research Scientist Intern | NYC | ⬜ Not Applied | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Internship-2026-Summer/13577) |
+| Brevan Howard | AI & Quant Intern | NYC | ⬜ Not Applied | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/New-York-1345/XMLNAME-2026-Summer-Internship-Program---Artificial-Intelligence---Quant--New-York_JR101236) |
+| S&P Global | Machine Learning Intern | Various | ⬜ Not Applied | [Apply](https://careers.spglobal.com/jobs/319673) |
 | PDT Partners | Software Engineering Intern | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/7073180) |
 | AQR Capital | Quantitative Research Intern | Greenwich, CT | ⬜ Not Applied | [Careers](https://careers.aqr.com/jobs/department/university-jobs) |
 | Squarepoint | Quantitative Research Intern | NYC | ⬜ Not Applied | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853) |
