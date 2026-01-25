@@ -128,6 +128,24 @@ Last updated: 2026-01-25 23:06 UTC
 | Vatic Labs | AI Research Intern | NYC | ⬜ Not Applied | [Careers](http://www.vaticinvestments.com/careers/) |
 | DRW | Software Developer Intern | Montreal | ⬜ Not Applied | [Careers](https://drw.com/careers/) |
 | DRW | AI/ML Research Intern | Montreal | ⬜ Not Applied | [Careers](https://drw.com/careers/) |
+| Aquatic Capital | BizOps (AI/LLM) Intern | Chicago | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8071545002) |
+| Optiver | Software Engineering Intern | Austin | ⬜ Not Applied | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7973725002/) |
+| Optiver | Quantitative Research Intern | Austin | ⬜ Not Applied | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7967593002/) |
+| Optiver | Hardware Engineer Intern | Austin | ⬜ Not Applied | [Apply](https://optiver.com/working-at-optiver/career-opportunities/8033390002/) |
+| SIG | Quant Strategy Developer Intern | Bala Cynwyd, PA | ⬜ Not Applied | [Apply](https://careers.sig.com/job/9532/Quantitative-Strategy-Developer-Internship-Summer-2026) |
+| G-Research | Quantitative Research Intern | London | ⬜ Not Applied | [Careers](https://www.gresearch.co.uk/join-us/graduates/) |
+| XTX Markets | Various Intern | London | ⬜ Not Applied | [Careers](https://www.xtxmarkets.com/career/internships-finance-risk-core-engineering/) |
+| Tudor Investment | Various Intern | NYC/Oakland/Singapore | ⬜ Not Applied | [Careers](https://job-boards.greenhouse.io/tudorgroup) |
+| TrexQuant | Research/Dev Intern | Stamford, CT | ⬜ Not Applied | [Careers](https://trexquant.com/careers) |
+| QuantLab | Various Intern | Houston | ⬜ Not Applied | [Careers](https://www.quantlab.com/careers) |
+| TGS Management | Various Intern | Irvine, CA | ⬜ Not Applied | [Careers](https://www.tgsmc.com/join-our-team/) |
+| Schonfeld | Various Intern | Miami | ⬜ Not Applied | [Careers](https://www.schonfeld.com/careers/) |
+| Valkyrie Trading | Various Intern | Chicago | ⬜ Not Applied | [Careers](https://www.valkyrietrading.com/careers/) |
+| Peak6 | Internship (Women-focused) | Chicago | ⬜ Not Applied | [Careers](https://peak6.com/careers/?q=intern) |
+| Ansatz Capital | Various Intern | NYC | ⬜ Not Applied | [Careers](https://jobs.lever.co/ansatzcapital) |
+| HAP Capital | Various Intern | NYC | ⬜ Not Applied | [Careers](https://jobs.lever.co/hap-capital) |
+| Seven Eight Capital | Various Intern | NYC | ⬜ Not Applied | [Careers](https://www.seveneightcapital.com/join-us) |
+| Campbell & Company | Various Intern | Baltimore | ⬜ Not Applied | [Careers](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2de708e1-c847-43b1-bf0d-0bad30aca014) |
 
 ---
 
