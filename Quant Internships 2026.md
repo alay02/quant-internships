@@ -146,6 +146,19 @@ Last updated: 2026-01-25 23:06 UTC
 | HAP Capital | Various Intern | NYC | ⬜ Not Applied | [Careers](https://jobs.lever.co/hap-capital) |
 | Seven Eight Capital | Various Intern | NYC | ⬜ Not Applied | [Careers](https://www.seveneightcapital.com/join-us) |
 | Campbell & Company | Various Intern | Baltimore | ⬜ Not Applied | [Careers](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2de708e1-c847-43b1-bf0d-0bad30aca014) |
+| Schonfeld | PhD Quant Research Intern | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7243716) |
+| Schonfeld | PhD Quant Research Intern | Miami | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7243570) |
+| Schonfeld | PhD Quant Research Intern | London | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7243648) |
+| Tudor Investment | Quant Developer Intern (Pipeline) | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/tudorgroup/jobs/7228194) |
+| IMC Trading | Quantitative Research Intern (PhD) | Chicago | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/imc/jobs/4609894101) |
+| Walleye Capital | CEQR Intern | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565272006) |
+
+## Winter/Off-Cycle Internships
+
+| Company | Role | Location | Status | Link |
+|---------|------|----------|--------|------|
+| Belvedere Trading | QT Intern (Winter 2026) | Chicago | ⬜ Not Applied | [Apply](https://jobs.lever.co/belvederetrading/5e07daf3-a6bb-40d4-8125-b56d2ea20d81) |
+| Five Rings | QT Intern (Winter 2026) | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4521138008) |
 
 ---
 
