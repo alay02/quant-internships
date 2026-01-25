@@ -146,6 +146,8 @@ Last updated: 2026-01-25 23:06 UTC
 | Optiver | Quantitative Research Intern | Austin | ⬜ Not Applied | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7967593002/) |
 | Optiver | Hardware Engineer Intern | Austin | ⬜ Not Applied | [Apply](https://optiver.com/working-at-optiver/career-opportunities/8033390002/) |
 | SIG | Quant Strategy Developer Intern | Bala Cynwyd, PA | ⬜ Not Applied | [Apply](https://careers.sig.com/job/9532/Quantitative-Strategy-Developer-Internship-Summer-2026) |
+| SIG | Equity Analyst Intern | NYC | ⬜ Not Applied | [Apply](https://careers.sig.com/job/9527/Equity-Analyst-Internship-Summer-2026) |
+| Fidelity | Quant Research Intern | Boston | ⬜ Not Applied | [Careers](https://jobs.fidelity.com/en/students/asset-management/) |
 | G-Research | Quantitative Research Intern | London | ⬜ Not Applied | [Careers](https://www.gresearch.co.uk/join-us/graduates/) |
 | XTX Markets | Various Intern | London | ⬜ Not Applied | [Careers](https://www.xtxmarkets.com/career/internships-finance-risk-core-engineering/) |
 | Tudor Investment | Various Intern | NYC/Oakland/Singapore | ⬜ Not Applied | [Careers](https://job-boards.greenhouse.io/tudorgroup) |
