@@ -174,6 +174,13 @@ Last updated: 2026-01-25 23:06 UTC
 | Company | Role | Location | Status | Link |
 |---------|------|----------|--------|------|
 | Wintermute | Quant Research Intern | London | ⬜ Not Applied | [Apply](https://www.wintermute.com/careers) |
+| Wintermute | Algorithmic Trading Intern | London | ⬜ Not Applied | [Apply](https://jobs.lever.co/wintermute-trading/9ea53f8c-f7bf-4aec-89ea-3ba622645404) |
+
+## Other Trading Firms
+
+| Company | Role | Location | Status | Link |
+|---------|------|----------|--------|------|
+| Gelber Group | Algorithmic Trading Intern | Chicago | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/gelbergroup/jobs/4595120006) |
 
 ---
 
