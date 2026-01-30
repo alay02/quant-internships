@@ -1,6 +1,6 @@
 # Quant Internships Summer 2026
 
-Last updated: 2026-01-25 23:20 UTC
+Last updated: 2026-01-30 20:05 UTC
 
 ## Top Prop Trading Firms
 
@@ -73,6 +73,7 @@ Last updated: 2026-01-25 23:20 UTC
 | Tower Research | Quantitative Research Intern | NYC | ⬜ Not Applied | [Apply](https://tower-research.com/open-positions/?gh_jid=6626259) |
 | Virtu Financial | Quantitative Trading Intern | NYC/Austin | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/virtu/jobs/7848562002) |
 | Virtu Financial | Software Engineering Intern | NYC/Austin | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/virtu/jobs/7848570002) |
+| Quantbot Technologies | Deep Learning Researcher | NYC | ⬜ Not Applied | [Apply](https://www.quantbot.com/careers?gh_jid=4113799009) |
 
 ## Elite Small Firms (Citadel Spinoffs & Similar)
 
