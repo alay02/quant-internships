@@ -2,7 +2,7 @@
 
 Last updated: 2026-01-30 21:06 UTC
 
-**52 open positions** (verified). 80 closed positions removed.
+**56 open positions** (verified). 80 closed positions removed.
 
 | Company | Role | Location | Status | Link |
 |---------|------|----------|--------|------|
@@ -54,6 +54,10 @@ Last updated: 2026-01-30 21:06 UTC
 | Squarepoint | Quantitative Research Intern | NYC | ⬜ Not Applied | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853) |
 | SMBC | Fixed Income Systematic Strats | NYC | ⬜ Not Applied | [Careers](https://www.smbc.com/careers) |
 | Tudor Investment | Various Intern | NYC/Oakland/Singapore | 🟡 Applied | [Careers](https://job-boards.greenhouse.io/tudorgroup) |
+| Two Sigma | Various Intern | NYC | 🟡 Applied | [Careers](https://www.twosigma.com/careers/) |
+| Susquehanna (SIG) | Quantitative Trading Intern | Various | 🟡 Applied | [Careers](https://careers.sig.com/) |
+| Morgan Stanley | Quantitative Finance Intern | NYC | 🟡 Applied | [Careers](https://www.morganstanley.com/careers/) |
+| Citi | Quantitative Analysis Intern | NYC | 🟡 Applied | [Careers](https://jobs.citi.com/) |
 
 
 ---
