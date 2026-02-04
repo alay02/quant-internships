@@ -1,11 +1,23 @@
 # Quant Internships Summer 2026
 
-Last updated: 2026-01-30 21:06 UTC
+Last updated: 2026-02-04 19:19 UTC
 
-**56 open positions** (verified). 80 closed positions removed.
+**68 open positions** (verified). 80 closed positions removed.
 
 | Company | Role | Location | Status | Link |
 |---------|------|----------|--------|------|
+| Jain Global | Quant Research Intern | NYC | ⬜ Not Applied | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-Office/Quant-Research-Intern--Summer-2026---New-York-_JR100314) |
+| Jain Global | Quant Modelling and Analytics Intern | London | ⬜ Not Applied | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Modelling-and-Analytics-Summer-Internship-2026---London-Office_JR100296) |
+| Jain Global | Quant Research Intern | London | ⬜ Not Applied | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Research-Intern--Summer-2026---London-_JR100353-1) |
+| Jain Global | Rates & Macro Trading Intern | London | ⬜ Not Applied | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Rates---Macro-Trading-Intern--Summer-2026---London-_JR100348) |
+| Galaxy | Trading Internship | London | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5790266004) |
+| G-Research | Quantitative Research Intern | London | ⬜ Not Applied | [Apply](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Internship-in-Quantitative-Research_R3213) |
+| BP | Supply, Trading & Shipping Finance Intern | Chicago | ⬜ Not Applied | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ099383-1) |
+| BP | Supply, Trading & Shipping Finance Intern | Chicago | ⬜ Not Applied | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ099383-2) |
+| Ameriprise Financial | Quantitative Research Intern | Boston | ⬜ Not Applied | [Apply](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Investments-Internship---Quantitative-Research_R25_0000003792) |
+| Ripple | Quantitative Trading Intern | London | ⬜ Not Applied | [Apply](https://ripple.com/careers/all-jobs/job/7527740) |
+| AstraZeneca | Quantitative Sciences & Statistical Programming Intern | Boston | ⬜ Not Applied | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Quantitative-Sciences---Statistical-Programming-Intern---Graduate_R-242061-1) |
+| Corcept Therapeutics | Emerging Markets Intern | San Carlos, CA | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/corcepttherapeutics/jobs/5735910004) |
 | BlackRock | Summer Internship Program | NYC | 🟡 Applied | [Apply](https://careers.blackrock.com/job/new-york/2026-summer-internship-program-amers/45831/78311026912) |
 | Aquatic Capital | BizOps (AI/LLM) Intern | Chicago | 🟡 Applied | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8071545002) |
 | Aquatic Capital | Software Engineering Intern | Chicago | 🟡 Applied | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002) |
