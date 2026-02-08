@@ -1,11 +1,13 @@
 # Quant Internships Summer 2026
 
-Last updated: 2026-02-04 19:19 UTC
+Last updated: 2026-02-08 09:02 EST
 
-**68 open positions** (verified). 80 closed positions removed.
+**70 open positions** (verified). 80 closed positions removed.
 
 | Company | Role | Location | Status | Link |
 |---------|------|----------|--------|------|
+| Microsoft | Quantitative Researcher Intern (PhD) | Redmond, WA | ⬜ Not Applied | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556752645) |
+| Citadel Securities | Quantitative Researcher Engineer – PhD Intern | London, UK | ⬜ Not Applied | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-researcher-engineer-phd-intern-europe/) |
 | Jain Global | Quant Research Intern | NYC | ⬜ Not Applied | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-Office/Quant-Research-Intern--Summer-2026---New-York-_JR100314) |
 | Jain Global | Quant Modelling and Analytics Intern | London | ⬜ Not Applied | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Modelling-and-Analytics-Summer-Internship-2026---London-Office_JR100296) |
 | Jain Global | Quant Research Intern | London | ⬜ Not Applied | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Research-Intern--Summer-2026---London-_JR100353-1) |
