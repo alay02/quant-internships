@@ -1,11 +1,14 @@
 # Quant Internships Summer 2026
 
-Last updated: 2026-02-08 09:02 EST
+Last updated: 2026-02-10 09:00 EST
 
-**70 open positions** (verified). 80 closed positions removed.
+**73 open positions** (verified). 80 closed positions removed.
 
 | Company | Role | Location | Status | Link |
 |---------|------|----------|--------|------|
+| State Street | Quantitative Analyst Summer Internship 2026 - Model Risk Management | Boston, MA | ⬜ Not Applied | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street---Model-Risk-Management---Quantitative-Analyst-Summer-Internship-2026_R-783856) |
+| State Street | Quantitative Analyst Summer Internship 2026 - Model Risk Management | Boston, MA | ⬜ Not Applied | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street---Model-Risk-Management---Quantitative-Analyst-Summer-Internship-2026_R-783859-1) |
+| Acadian Asset Management | Quant Developer Intern - Summer 2026 | Boston, MA | ⬜ Not Applied | [Apply](https://www.linkedin.com/jobs/view/quant-developer-intern-summer-2026-at-acadian-asset-management-4315882710) |
 | Microsoft | Quantitative Researcher Intern (PhD) | Redmond, WA | ⬜ Not Applied | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556752645) |
 | Citadel Securities | Quantitative Researcher Engineer – PhD Intern | London, UK | ⬜ Not Applied | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-researcher-engineer-phd-intern-europe/) |
 | Jain Global | Quant Research Intern | NYC | ⬜ Not Applied | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-Office/Quant-Research-Intern--Summer-2026---New-York-_JR100314) |
