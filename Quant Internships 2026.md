@@ -1,11 +1,13 @@
 # Quant Internships Summer 2026
 
-Last updated: 2026-02-10 09:00 EST
+Last updated: 2026-02-12 09:00 EST
 
-**73 open positions** (verified). 80 closed positions removed.
+**75 open positions** (verified). 80 closed positions removed.
 
 | Company | Role | Location | Status | Link |
 |---------|------|----------|--------|------|
+| Jones Lang LaSalle (JLL) | Capital Markets Intern | Montreal, QC, Canada | ⬜ Not Applied | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Montreal-QC/Stagiaire-en-Marchs-de-Capitaux---Capital-Markets-Intern_REQ484287) |
+| Jones Lang LaSalle (JLL) | Capital Markets Intern | Toronto, ON, Canada | ⬜ Not Applied | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Capital-Markets-Intern_REQ484258) |
 | State Street | Quantitative Analyst Summer Internship 2026 - Model Risk Management | Boston, MA | ⬜ Not Applied | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street---Model-Risk-Management---Quantitative-Analyst-Summer-Internship-2026_R-783856) |
 | State Street | Quantitative Analyst Summer Internship 2026 - Model Risk Management | Boston, MA | ⬜ Not Applied | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street---Model-Risk-Management---Quantitative-Analyst-Summer-Internship-2026_R-783859-1) |
 | Acadian Asset Management | Quant Developer Intern - Summer 2026 | Boston, MA | ⬜ Not Applied | [Apply](https://www.linkedin.com/jobs/view/quant-developer-intern-summer-2026-at-acadian-asset-management-4315882710) |
