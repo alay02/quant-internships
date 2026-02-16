@@ -1,8 +1,11 @@
 # Quant Internships Summer 2026
+| Keyrock | Quantitative Analyst | London, UK | ⬜ Not Applied | [Apply](https://jobs.ashbyhq.com/keyrock/aa611b0b-983b-4e4c-a7c7-eb1d5e98f316/application) |
+| Fanatics | Collectibles Intern - Product - Physical Trading Cards | NYC | ⬜ Not Applied | [Apply](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) |
+| Royal Bank of Canada | Relationship Manager Business Markets Intern | London, UK | ⬜ Not Applied | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRANBY-Quebec-Canada/Relationship-Manager-Business-Markets-Intern_R-0000158521) |
 
-Last updated: 2026-02-15 09:00 EST
+Last updated: 2026-02-16 09:01 EST
 
-**76 open positions** (verified). 80 closed positions removed.
+**79 open positions** (verified). 80 closed positions removed.
 
 | Company | Role | Location | Status | Link |
 |---------|------|----------|--------|------|
