@@ -3,12 +3,65 @@
 | Fanatics | Collectibles Intern - Product - Physical Trading Cards | NYC | ⬜ Not Applied | [Apply](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) |
 | Royal Bank of Canada | Relationship Manager Business Markets Intern | London, UK | ⬜ Not Applied | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRANBY-Quebec-Canada/Relationship-Manager-Business-Markets-Intern_R-0000158521) |
 
-Last updated: 2026-02-16 09:01 EST
+Last updated: 2026-02-17 09:01 EST
 
-**79 open positions** (verified). 80 closed positions removed.
+**132 open positions** (updated). 80 closed positions removed.
 
 | Company | Role | Location | Status | Link |
 |---------|------|----------|--------|------|
+| Jane Street | Software Engineering Intern | NYC | ⬜ Not Applied | [Apply](https://www.janestreet.com/join-jane-street/position/8040547002/) |
+| Jane Street | Quantitative Research Intern | NYC | ⬜ Not Applied | [Apply](https://www.janestreet.com/join-jane-street/position/7979031002/) |
+| Jane Street | Quantitative Trader Intern | NYC | ⬜ Not Applied | [Apply](https://www.janestreet.com/join-jane-street/position/8047137002/) |
+| Jane Street | FPGA/Hardware Engineer Intern | NYC | ⬜ Not Applied | [Apply](https://www.janestreet.com/join-jane-street/position/8062455002/) |
+| Jump Trading | Software Engineer Intern | Chicago | ⬜ Not Applied | [Apply](https://www.jumptrading.com/careers/7124769/) |
+| Jump Trading | Quantitative Research Intern | Chicago | ⬜ Not Applied | [Apply](https://www.jumptrading.com/careers/7026718/) |
+| Jump Trading | Quantitative Trader Intern | Chicago | ⬜ Not Applied | [Apply](https://www.jumptrading.com/careers/6900970/) |
+| Jump Trading | FPGA Engineer Intern | Chicago | ⬜ Not Applied | [Apply](https://www.jumptrading.com/careers/7124905/) |
+| Jump Trading | Data Engineer Intern | Chicago | ⬜ Not Applied | [Apply](https://www.jumptrading.com/careers/7125399/) |
+| IMC Trading | Software Engineer Intern | Chicago | ⬜ Not Applied | [Apply](https://www.imc.com/us/careers/jobs/4580810101/) |
+| IMC Trading | Quantitative Research Intern | Chicago | ⬜ Not Applied | [Apply](https://www.imc.com/us/careers/jobs/4580808101/) |
+| IMC Trading | Quantitative Trader Intern | Chicago | ⬜ Not Applied | [Apply](https://www.imc.com/us/careers/jobs/4580757101/) |
+| IMC Trading | ML Research Intern | Chicago | ⬜ Not Applied | [Apply](https://www.imc.com/us/careers/jobs/4608584101) |
+| Optiver | Software Engineer Intern | Chicago | ⬜ Not Applied | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7973726002/) |
+| Optiver | Software Engineer Intern | Austin, TX | ⬜ Not Applied | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7973725002/) |
+| Optiver | Quantitative Research Intern | Chicago | ⬜ Not Applied | [Apply](https://optiver.com/working-at-optiver/career-opportunities/8033071002/) |
+| Optiver | Quantitative Research Intern | Austin, TX | ⬜ Not Applied | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7967593002/) |
+| Optiver | Quantitative Trader Intern | Chicago | ⬜ Not Applied | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7832160002/) |
+| Optiver | FPGA/Hardware Engineer Intern | Chicago | ⬜ Not Applied | [Apply](https://optiver.com/working-at-optiver/career-opportunities/8033372002/) |
+| Optiver | FPGA/Hardware Engineer Intern | Austin, TX | ⬜ Not Applied | [Apply](https://optiver.com/working-at-optiver/career-opportunities/8033390002/) |
+| DRW | Software Developer Intern | Chicago | ⬜ Not Applied | [Apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3157977) |
+| DRW | Quantitative Research Intern | Chicago | ⬜ Not Applied | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3151348) |
+| DRW | Quantitative Trading Analyst Intern | Chicago | ⬜ Not Applied | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3141981) |
+| Five Rings | Software Developer Intern | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) |
+| Five Rings | Quantitative Research Intern | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008) |
+| Five Rings | Quantitative Trader Intern | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4613451008) |
+| Tower Research Capital | Software Engineer Intern | NYC | ⬜ Not Applied | [Apply](https://tower-research.com/open-positions/?gh_jid=6790327) |
+| Tower Research Capital | Quantitative Research Intern | NYC | ⬜ Not Applied | [Apply](https://tower-research.com/open-positions/?gh_jid=6626259) |
+| Tower Research Capital | Quantitative Trader Intern | NYC | ⬜ Not Applied | [Apply](https://tower-research.com/open-positions/?gh_jid=7062358) |
+| Virtu Financial | Software Engineer Intern | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/virtu/jobs/7848570002) |
+| Virtu Financial | Quantitative Trader Intern | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/virtu/jobs/7848562002) |
+| Bridgewater Associates | Software Engineer Intern | Westport, CT | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/bridgewater89/jobs/7950099002) |
+| Bridgewater Associates | Quantitative Research Intern | Westport, CT | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/bridgewater89/jobs/7726966002) |
+| Cubist Systematic Strategies (Point72) | Quantitative Software Developer Intern | NYC | ⬜ Not Applied | [Apply](https://campusjobs.mlp.com/careers?pid=755944533187) |
+| Cubist Systematic Strategies (Point72) | Quantitative Researcher Intern | NYC | ⬜ Not Applied | [Apply](https://campusjobs.mlp.com/careers?pid=755944544682) |
+| Radix Trading | Quantitative Technologist (SWE) Intern | Chicago | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/7842108002) |
+| TransMarket Group | Software Engineer Intern | Chicago | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007) |
+| TransMarket Group | Quantitative Trader Intern | Chicago | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/4749915007) |
+| Geneva Trading | Quantitative Trader Intern | Chicago | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/4767553007) |
+| Flow Traders | Quantitative Trader Intern | NYC | ⬜ Not Applied | [Apply](https://www.flowtraders.com/careers/job-description/7166435) |
+| Marshall Wace | Technology/SWE Intern | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002) |
+| Voloridge Investment Management | Research Software Engineer Intern | Jupiter, FL | ⬜ Not Applied | [Apply](https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026) |
+| Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | ⬜ Not Applied | [Apply](https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026) |
+| Hudson River Trading | Algo Dev (Quant Research) Intern | NYC | ⬜ Not Applied | [Apply](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2026-2/) |
+| Hudson River Trading | Algorithm Trader Intern | NYC | ⬜ Not Applied | [Apply](https://www.hudsonrivertrading.com/hrt-job/algorithm-trader-quantitative-trader-internship-summer-2026/) |
+| Hudson River Trading | Sophomore Internship | NYC | ⬜ Not Applied | [Apply](https://www.hudsonrivertrading.com/hrt-job/sophomore-internship-summer-2026/) |
+| Two Sigma | Quantitative Researcher Intern | NYC | ⬜ Not Applied | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2026-Summer/13257) |
+| SIG (Susquehanna) | Software Engineering Intern | Bala Cynwyd, PA | ⬜ Not Applied | [Apply](https://careers.sig.com/job/9571/Software-Engineering-Internship-Summer-2026) |
+| SIG (Susquehanna) | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | ⬜ Not Applied | [Apply](https://careers.sig.com/job/9532/Quantitative-Strategy-Developer-Internship-Summer-2026) |
+| SIG (Susquehanna) | Quantitative Research Intern (Master's) | Bala Cynwyd, PA | ⬜ Not Applied | [Apply](https://careers.sig.com/job/9306/Quantitative-Research-Internship-Master-s-Summer-2026) |
+| SIG (Susquehanna) | Quantitative Trader Intern | Bala Cynwyd, PA | ⬜ Not Applied | [Apply](https://careers.sig.com/job/9377/Quantitative-Trader-Internship-Summer-2026) |
+| Citadel Securities | Quantitative Trading Intern | Chicago/NYC | ⬜ Not Applied | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-us/) |
+| Gelber Group | Technical Operations Intern | Chicago | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/gelberhandshake/jobs/4652889006) |
 | StoneX Group | Treasuries Sales & Trading Intern | NYC | ⬜ Not Applied | [Apply](https://careers-stonex.icims.com/jobs/13771/job) |
 | Jones Lang LaSalle (JLL) | Capital Markets Intern | Montreal, QC, Canada | ⬜ Not Applied | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Montreal-QC/Stagiaire-en-Marchs-de-Capitaux---Capital-Markets-Intern_REQ484287) |
 | Jones Lang LaSalle (JLL) | Capital Markets Intern | Toronto, ON, Canada | ⬜ Not Applied | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Capital-Markets-Intern_REQ484258) |
