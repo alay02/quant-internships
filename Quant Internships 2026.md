@@ -3,12 +3,27 @@
 | Fanatics | Collectibles Intern - Product - Physical Trading Cards | NYC | ⬜ Not Applied | [Apply](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) |
 | Royal Bank of Canada | Relationship Manager Business Markets Intern | London, UK | ⬜ Not Applied | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRANBY-Quebec-Canada/Relationship-Manager-Business-Markets-Intern_R-0000158521) |
 
-Last updated: 2026-02-18 09:00 EST
+Last updated: 2026-02-19 09:00 EST
 
-**132 open positions** (updated). 80 closed positions removed.
+**147 open positions** (updated). 80 closed positions removed.
 
 | Company | Role | Location | Status | Link |
 |---------|------|----------|--------|------|
+| SIG (Susquehanna) | Quantitative Systematic Trading Intern (PhD) | Bala Cynwyd, PA | ⬜ Not Applied | [Apply](https://careers.sig.com/job/9304/Quantitative-Systematic-Trading-Internship-PhD-Summer-2026) |
+| SIG (Susquehanna) | Quantitative Research Intern (PhD) | Bala Cynwyd, PA | ⬜ Not Applied | [Apply](https://careers.sig.com/job/9238/Quantitative-Research-Internship-PhD-Summer-2026) |
+| BNP Paribas | Quant Research & Trading Intern | NYC | ⬜ Not Applied | [Apply](https://group.bnpparibas/en/careers/job-offer/2026-summer-associate-internship-global-markets-quantitative-research-and-trading-1) |
+| Point72 | Quantitative Research Intern (NLP) | NYC | ⬜ Not Applied | [Apply](https://careers.point72.com/CSJobDetail?jobName=quantitative-research-intern-nlp-&jobCode=CSS-0013383) |
+| Citadel | Quantitative Research Analyst Intern | Greenwich, CT / NYC | ⬜ Not Applied | [Apply](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/) |
+| Tower Research Capital | Quantitative Researcher Intern | NYC | ⬜ Not Applied | [Apply](https://tower-research.com/open-positions/?gh_jid=7238472) |
+| Virtu Financial | Quantitative Strategist Intern (PhD) | NYC | ⬜ Not Applied | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8054716002) |
+| AQR Capital Management | Portfolio Implementation & Trading Intern | Greenwich, CT | ⬜ Not Applied | [Apply](https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-implementation-trading-and-portfolio-finance-summer-analyst/7022101?gh_jid=7022101#/) |
+| Talos Trading | Quantitative Analyst Intern | NYC | ⬜ Not Applied | [Apply](https://jobs.ashbyhq.com/Talos-Trading/0c150c16-ed0e-4f21-81d6-e85f67437f00) |
+| Arrowstreet Capital | Investment Processes Intern | Boston, MA | ⬜ Not Applied | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Investment-Processes-Intern--Summer-2026_R1355) |
+| Bank of America | Quantitative Data Analytics Summer Analyst | Atlanta / Charlotte / Chicago / NYC | ⬜ Not Applied | [Apply](https://careers.bankofamerica.com/en-us/students/job-detail/12929/global-quantitative-data-analytics-summer-2026-analyst-global-risk-management-multiple-locations) |
+| Citi | Markets Quantitative Analysis Summer Analyst | NYC | ⬜ Not Applied | [Apply](https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2026/287/77659897200) |
+| Citi | Quantitative Risk Management Summer Analyst | Irving, TX | ⬜ Not Applied | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Irving---US--2026_25840226) |
+| Citi | Quantitative Risk Management Summer Analyst | Tampa, FL | ⬜ Not Applied | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Tampa---US--2026_25839797) |
+| Royal Bank of Canada | Global Markets Quantitative Trading Summer Analyst | NYC | ⬜ Not Applied | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/New-York-New-York-United-States-of-America/XMLNAME-2026-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000101066-1) |
 | Jane Street | Software Engineering Intern | NYC | ⬜ Not Applied | [Apply](https://www.janestreet.com/join-jane-street/position/8040547002/) |
 | Jane Street | Quantitative Research Intern | NYC | ⬜ Not Applied | [Apply](https://www.janestreet.com/join-jane-street/position/7979031002/) |
 | Jane Street | Quantitative Trader Intern | NYC | ⬜ Not Applied | [Apply](https://www.janestreet.com/join-jane-street/position/8047137002/) |
