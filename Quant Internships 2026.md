@@ -6,14 +6,15 @@
 | Gelber Group | Algorithmic Trading Intern 🎓 | Boston, MA | [Apply](https://job-boards.greenhouse.io/gelbergroup/jobs/4654948006) | 2026-02-20 | ✅ Open |
 | Neuberger Berman | Fixed Income Quant Intern 🎓 | Chicago, IL | [Apply](https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/Chicago-IL/Fixed-Income-2026-Summer-Quant-Internship_R0011415) | 2026-02-20 | ✅ Open |
 | Garda Capital Partners | Markets Analyst - Cross Asset | NYC | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/4933962004) | 2026-02-20 | ✅ Open |
+| FanDuel | Sports Trader Intern | Toronto, ON, Canada | [Apply](https://boards.greenhouse.io/embed/job_app?token=7625508) | 2026-02-22 | ✅ Open |
 # Quant Internships Summer 2026
 | Keyrock | Quantitative Analyst | London, UK | ⬜ Not Applied | [Apply](https://jobs.ashbyhq.com/keyrock/aa611b0b-983b-4e4c-a7c7-eb1d5e98f316/application) |
 | Fanatics | Collectibles Intern - Product - Physical Trading Cards | NYC | ⬜ Not Applied | [Apply](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) |
-| Royal Bank of Canada | Relationship Manager Business Markets Intern | London, UK | ⬜ Not Applied | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRANBY-Quebec-Canada/Relationship-Manager-Business-Markets-Intern_R-0000158521) |
+| Royal Bank of Canada | Relationship Manager Business Markets Intern | Pointe-Claire, QC, Canada / Brossard, QC, Canada / Longueuil, QC, Canada | ⬜ Not Applied | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRANBY-Quebec-Canada/Relationship-Manager-Business-Markets-Intern_R-0000158521) |
 
-Last updated: 2026-02-19 09:00 EST
+Last updated: 2026-02-22 09:00 EST
 
-**147 open positions** (updated). 80 closed positions removed.
+**148 open positions** (1 new from SimplifyJobs: FanDuel). Fixed RBC location.
 
 | Company | Role | Location | Status | Link |
 |---------|------|----------|--------|------|
