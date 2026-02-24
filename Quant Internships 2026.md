@@ -1,3 +1,11 @@
+| Five Rings | Winter Intern 2027 - Quantitative Trader | New York | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5122638008) | 2026-02-24 | ✅ Open |
+| Tower Research | Core Engineering Intern | Gurgaon | [Apply](https://www.tower-research.com/open-positions/?gh_jid=6903711) | 2026-02-24 | ✅ Open |
+| Tower Research | Quantitative Developer Intern | Paris | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7011493) | 2026-02-24 | ✅ Open |
+| Tower Research | Quantitative Researcher Intern | New York | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7238472) | 2026-02-24 | ✅ Open |
+| Tower Research | Quantitative Trader Intern (PhD 2026) | New York | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7062370) | 2026-02-24 | ✅ Open |
+| Tower Research | Quantitative Trader Intern (Summer 2026) | New York | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7062358) | 2026-02-24 | ✅ Open |
+| Tower Research | Software Developer Intern (Summer 2026) | New York | [Apply](https://www.tower-research.com/open-positions/?gh_jid=6790327) | 2026-02-24 | ✅ Open |
+| Tower Research | Stagiaire en développement de logiciels (été 2026) / Software Developer Intern (Summer 2026) | Montreal | [Apply](https://www.tower-research.com/open-positions/?gh_jid=6653745) | 2026-02-24 | ✅ Open |
 | InfiniteQuant | Quantitative Developer – Internship - Summer 2026 | NYC, Dubai - United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000107588752) | 2026-02-24 | ✅ Open |
 | Louis Dreyfus Company | Trader Trainee Intern | Arlington, TN | [Apply](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000081369410) | 2026-02-24 | ✅ Open |
 | InfiniteQuant | Quantitative Developer – Internship - Summer 2026 | NYC, Dubai - United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000105006765) | 2026-02-24 | ✅ Open |
