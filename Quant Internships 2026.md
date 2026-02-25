@@ -1,3 +1,4 @@
+| Milliman | 2026 Summer Internship Analytics (MedInsight) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/2026-summer-internship-analytics-medinsight-at-milliman-4374813600) | 2026-02-25 | ✅ Open |
 | Fidelity Investments | Quantitative Analyst | 4 locationsBoston, MA, Merrimack, NH, Westlake, TX, Smithfield, RI | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Quantitative-Analyst_2125095) | 2026-02-25 | ✅ Open |
 | Artisan Partners | Emerging Markets Debt Trading Desk – Summer Intern - Undergraduate | Boston, MA | [Apply](https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=7651599) | 2026-02-25 | ✅ Open |
 | Janus Henderson Investors | Quantitative Developer Intern | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/quantitative-developer-intern-at-janus-henderson-investors-4357473816) | 2026-02-24 | ✅ Open |
