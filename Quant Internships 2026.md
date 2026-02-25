@@ -1,3 +1,5 @@
+| Fidelity Investments | Quantitative Analyst | 4 locationsBoston, MA, Merrimack, NH, Westlake, TX, Smithfield, RI | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Quantitative-Analyst_2125095) | 2026-02-25 | ✅ Open |
+| Artisan Partners | Emerging Markets Debt Trading Desk – Summer Intern - Undergraduate | Boston, MA | [Apply](https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=7651599) | 2026-02-25 | ✅ Open |
 | Janus Henderson Investors | Quantitative Developer Intern | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/quantitative-developer-intern-at-janus-henderson-investors-4357473816) | 2026-02-24 | ✅ Open |
 | Garda Capital Partners | Markets Analyst Intern, Cross Asset | New York, NY | [Apply](https://www.linkedin.com/jobs/view/markets-analyst-intern-cross-asset-at-garda-capital-partners-4374168512) | 2026-02-24 | ✅ Open |
 | Gelber Group LLC | Algorithmic Trading Internship -  Boston Summer 2026 | Boston, MA | [Apply](https://www.linkedin.com/jobs/view/algorithmic-trading-internship-boston-summer-2026-at-gelber-group-llc-4375450971) | 2026-02-24 | ✅ Open |
