@@ -1,3 +1,5 @@
+| Louis Vuitton | Digital Marketing Insights Intern - Spring 2026 | New York, NY | [Apply](https://www.linkedin.com/jobs/view/digital-marketing-insights-intern-spring-2026-at-louis-vuitton-4361506634) | 2026-02-26 | ✅ Open |
+| Barclays | Quantitative Analytics Associate Summer Internship Program 2026 New York | New York, NY | [Apply](https://www.linkedin.com/jobs/view/quantitative-analytics-associate-summer-internship-program-2026-new-york-at-barclays-4375271099) | 2026-02-26 | ✅ Open |
 | Milliman | 2026 Summer Internship Analytics (MedInsight) | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/2026-summer-internship-analytics-medinsight-at-milliman-4374813600) | 2026-02-25 | ✅ Open |
 | Fidelity Investments | Quantitative Analyst | 4 locationsBoston, MA, Merrimack, NH, Westlake, TX, Smithfield, RI | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Quantitative-Analyst_2125095) | 2026-02-25 | ✅ Open |
 | Artisan Partners | Emerging Markets Debt Trading Desk – Summer Intern - Undergraduate | Boston, MA | [Apply](https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=7651599) | 2026-02-25 | ✅ Open |
