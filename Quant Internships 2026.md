@@ -1,3 +1,5 @@
+| Maven Securities | Trader Intern | Chicago, IL | [Apply](https://job-boards.greenhouse.io/emergingtalent/jobs/7267540) | 2026-03-10 | ✅ Open |
+| Interactive Brokers | Quant Analyst Intern | Greenwich, CT | [Apply](https://job-boards.greenhouse.io/ibkr/jobs/8442904002) | 2026-03-10 | ✅ Open |
 | GTS | Quantitative Trading Intern - Fall 2026 Internship | New York, NY | [Apply](https://www.linkedin.com/jobs/view/quantitative-trading-intern-fall-2026-internship-at-gts-4380890556) | 2026-03-07 | ✅ Open |
 | Susquehanna International Group | Quantitative Research Internship – Master's: Summer 2026 | Greater Philadelphia | [Apply](https://www.linkedin.com/jobs/view/quantitative-research-internship-%E2%80%93-master-s-summer-2026-at-susquehanna-international-group-4223792745) | 2026-03-06 | ✅ Open |
 | Susquehanna International Group | Quantitative Systematic Trading Internship – Master's: Summer 2026 | Greater Philadelphia | [Apply](https://www.linkedin.com/jobs/view/quantitative-systematic-trading-internship-%E2%80%93-master-s-summer-2026-at-susquehanna-international-group-4223793187) | 2026-03-06 | ✅ Open |
