@@ -1,3 +1,6 @@
+| Apollo Global | Analyst - Quantitative Analytics | Canoga Park, LA | [Apply](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/Woodland-Hills-California/XMLNAME-2026-Summer-Analyst--Quant-Analytics_R254341) | 2026-03-13 | ✅ Open |
+| Gunvor | Analytics Intern - Power & Gas Trading | London, UK | [Apply](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/London/Analytics-Intern---Power---Gas-Trading_JR102530-1) | 2026-03-13 | ✅ Open |
+| PEAK6 | Trading Bootcamp Micro-Intern | Chicago, IL | [Apply](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2026_JR103143) | 2026-03-13 | ✅ Open |
 | GE Vernova | GE Vernova Data Scientist Intern - Market &amp; Customer Insights - Summer 2026 | Cambridge, MA | [Apply](https://www.linkedin.com/jobs/view/ge-vernova-data-scientist-intern-market-customer-insights-summer-2026-at-ge-vernova-4384376302) | 2026-03-12 | ✅ Open |
 | Five Rings | Summer 2026 - Accounting Intern  | New York | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5150418008) | 2026-03-12 | ✅ Open |
 | Voloridge Investment Management, LLC | Quantitative Research Intern 2026 | Jupiter, FL | [Apply](https://www.linkedin.com/jobs/view/quantitative-research-intern-2026-at-voloridge-investment-management-llc-4136627377) | 2026-03-10 | ✅ Open |
