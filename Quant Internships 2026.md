@@ -1,3 +1,5 @@
+| Fanatics | Collectibles Intern - Product - Physical Trading Cards | Coppell, TX | [Apply](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | 2026-03-14 | ✅ Open |
+| Royal Bank of Canada | Capital Markets - Multiple Teams | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000141007-1) | 2026-03-14 | ✅ Open |
 | Milliman | Quantitative Developer Intern | Chicago, IL | [Apply](https://www.linkedin.com/jobs/view/quantitative-developer-intern-at-milliman-4383028960) | 2026-03-13 | ✅ Open |
 | Apollo Global | Analyst - Quantitative Analytics | Canoga Park, LA | [Apply](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/Woodland-Hills-California/XMLNAME-2026-Summer-Analyst--Quant-Analytics_R254341) | 2026-03-13 | ✅ Open |
 | Gunvor | Analytics Intern - Power & Gas Trading | London, UK | [Apply](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/London/Analytics-Intern---Power---Gas-Trading_JR102530-1) | 2026-03-13 | ✅ Open |
