@@ -1,3 +1,4 @@
+| Jain Global | Credit Intern 🎓 | NYC | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Credit-Intern--Summer-2026---New-York-_JR100370) | 2026-03-15 | ✅ Open |
 | Fanatics | Collectibles Intern - Product - Physical Trading Cards | Coppell, TX | [Apply](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | 2026-03-14 | ✅ Open |
 | Royal Bank of Canada | Capital Markets - Multiple Teams | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000141007-1) | 2026-03-14 | ✅ Open |
 | Milliman | Quantitative Developer Intern | Chicago, IL | [Apply](https://www.linkedin.com/jobs/view/quantitative-developer-intern-at-milliman-4383028960) | 2026-03-13 | ✅ Open |
