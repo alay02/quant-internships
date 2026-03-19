@@ -1,3 +1,4 @@
+| Centrica | Commodity Trading Analyst | NYC | [Apply](https://centrica.wd3.myworkdayjobs.com/Centrica/job/New-York/Commodity-Trading-Summer-Analyst_R0083120) | 2026-03-19 | ✅ Open |
 | BP | Intern - Multiple Teams | Houston, TX | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping---Analytics---Houston--TX_RQ099131-2) | 2026-03-17 | ✅ Open |
 | Jain Global | Credit Intern 🎓 | NYC | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Credit-Intern--Summer-2026---New-York-_JR100370) | 2026-03-15 | ✅ Open |
 | Fanatics | Collectibles Intern - Product - Physical Trading Cards | Coppell, TX | [Apply](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | 2026-03-14 | ✅ Open |
