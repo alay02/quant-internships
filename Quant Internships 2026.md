@@ -1,3 +1,6 @@
+| Tencent | Investment Analyst Intern | Palo Alto, CA | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Investment-Analyst-Intern_R107139) | 2026-03-23 | ✅ Open |
+| Agentis Capital | Capital Markets Intern | Toronto, ON, Canada, Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/Agentis-Capital-Advisors/db0f00d9-7b08-43cf-b75d-3ff97e3985e1/application) | 2026-03-23 | ✅ Open |
+| Banco Bilbao Vizcaya Argentaria | Intern - Quantitative Analysis | London, UK | [Apply](https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Summer-Internship-London---Quantitative-Analysis_JR00099191) | 2026-03-23 | ✅ Open |
 | TD Bank | Global Markets Intern/Co-op | Toronto, ON, Canada | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op_R_1469780) | 2026-03-20 | ✅ Open |
 | Tower Research Capital | Quantitative Trader Intern (PhD 2026) | New York, United States | [Apply](https://www.linkedin.com/jobs/view/quantitative-trader-intern-phd-2026-at-tower-research-capital-4387696307) | 2026-03-19 | ✅ Open |
 | Centrica | Commodity Trading Analyst | NYC | [Apply](https://centrica.wd3.myworkdayjobs.com/Centrica/job/New-York/Commodity-Trading-Summer-Analyst_R0083120) | 2026-03-19 | ✅ Open |
