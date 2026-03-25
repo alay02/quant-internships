@@ -1,3 +1,4 @@
+| Fidelity Investments | Quantitative Research Intern-Systematic Equity Strategies Team 🎓 | Boston, MA | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Research-Intern--Systematic-Equity-Strategies-Team_2116940) | 2026-03-25 | ✅ Open |
 | Group 1001 | Quantitative Analysis Intern | Stamford, CT | [Apply](https://www.linkedin.com/jobs/view/quantitative-analysis-intern-at-group-1001-4388993613) | 2026-03-24 | ✅ Open |
 | Tencent | Investment Analyst Intern | Palo Alto, CA | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Investment-Analyst-Intern_R107139) | 2026-03-23 | ✅ Open |
 | Agentis Capital | Capital Markets Intern | Toronto, ON, Canada, Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/Agentis-Capital-Advisors/db0f00d9-7b08-43cf-b75d-3ff97e3985e1/application) | 2026-03-23 | ✅ Open |
