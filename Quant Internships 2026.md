@@ -1,3 +1,6 @@
+| Schonfeld | 2026 DMFI Summer Intern | New York, NY | [Apply](https://www.linkedin.com/jobs/view/2026-dmfi-summer-intern-at-schonfeld-4390667351) | 2026-03-26 | ✅ Open |
+| Schonfeld | DMFI Intern | NYC | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7749783) | 2026-03-26 | ✅ Open |
+| CoStar Group | Quantitative Analyst Intern 🎓 | Boston, MA | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-MA-Boston/Quantitative-Analyst-Intern--CoStar-Debt-Solutions---Summer-2026_R38546) | 2026-03-26 | ✅ Open |
 | Physics World | Quantitative Systematic Trading Internship - Master's: Summer 2026 | Philadelphia, NY | [Apply](https://www.linkedin.com/jobs/view/quantitative-systematic-trading-internship-master-s-summer-2026-at-physics-world-4389840086) | 2026-03-25 | ✅ Open |
 | Susquehanna International Group | Quantitative Research Internship - PhD: Summer 2026 | New York, NY | [Apply](https://www.linkedin.com/jobs/view/quantitative-research-internship-phd-summer-2026-at-susquehanna-international-group-4264320784) | 2026-03-25 | ✅ Open |
 | Fidelity Investments | Quantitative Research Intern-Systematic Equity Strategies Team 🎓 | Boston, MA | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Research-Intern--Systematic-Equity-Strategies-Team_2116940) | 2026-03-25 | ✅ Open |
